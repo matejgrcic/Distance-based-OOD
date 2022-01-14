@@ -1,6 +1,6 @@
 # Distance-dependent anomaly detection
 
-This repo enables measuring sensitivity of anomaly detection to distance from the camera
+This repo enables measuring the sensitivity of anomaly detection to distance from the camera
 on the LostAndFound dataset as described in [Dense anomaly detection by robust learning
 on synthetic negative data](https://arxiv.org/pdf/2112.12833.pdf).
 
