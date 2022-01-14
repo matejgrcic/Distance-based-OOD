@@ -1,0 +1,4 @@
+Pillow==8.3.1
+prettytable==2.4.0
+torch==1.9.0
+torchvision==0.10.0a0+adbd24
